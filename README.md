@@ -4,7 +4,7 @@
 https://aadityakanojiyaportfolio.netlify.app/
 
 💻 Source Code: 
-https://github.com/adityastudent750-star/aadityakanojiya-portfolio
+https://github.com/AadityaKanojiya23/aadityakanojiya-portfolio
 
 ---
 
@@ -25,4 +25,4 @@ This is my personal portfolio website showcasing my projects, skills, and contac
 UI/UX Designer | Frontend Developer | MERN Stack Learner  
 
 🌐 Portfolio: https://aadityakanojiyaportfolio.netlify.app/  
-💻 GitHub: https://github.com/adityastudent750-star
+💻 GitHub: https://github.com/AadityaKanojiya23
